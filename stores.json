@@ -9,11 +9,12 @@
             },
             "type": "Feature",
             "properties": {
-                "category": "patisserie",
+                "category": "retailer",
                 "hours": "10am - 6pm",
                 "description": "Cnr Production and Tandem Avenue Warana, QLD 4575",
                 "name": "Audiofix",
                 "phone": "07 54379790",
+                "email": "audiofixsales@gmail.com",
                 "storeid": "01"
             }
         },
@@ -26,11 +27,12 @@
             },
             "type": "Feature",
             "properties": {
-                "category": "patisserie",
+                "category": "retailer",
                 "hours": "10am - 6pm",
                 "description": "5/17 Morrison Close, Mansfield Brisbane QLD 4122",
                 "name": "Brisbane Hi Fi",
                 "phone": "07 3219 2545",
+                "email": "info@brisbanehifi.com.au",
                 "storeid": "02"
             }
         },
@@ -44,11 +46,12 @@
             },
             "type": "Feature",
             "properties": {
-                "category": "patisserie",
+                "category": "retailer",
                 "hours": "10am - 6pm",
-                "description": "Arundel, Gold Coast.",
+                "description": "Arundel, Gold Coast. By Appointment",
                 "name": "GC HiFi",
                 "phone": "+0419 448 452",
+                "email": "terryo@gc-hifi.com.au",
                 "storeid": "03"
             }
         },
@@ -62,11 +65,12 @@
             },
             "type": "Feature",
             "properties": {
-                "category": "cafe",
+                "category": "retailer",
                 "hours": "8am - 9:30pm",
                 "description": "Factory 10/185 Currumburra Road Ashmore QLD 4214",
                 "name": "Lenehan Audio",
                 "phone": "0418 765 726",
+                "email": "mike@lenehanaudio.com.au",
                 "storeid": "04"
             }
         }
