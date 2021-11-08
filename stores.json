@@ -15,6 +15,7 @@
                 "name": "Audiofix",
                 "phone": "07 54379790",
                 "email": "audiofixsales@gmail.com",
+                "image": "audiofix-store-logo-1544317273-1.png",
                 "storeid": "01"
             }
         },
@@ -33,6 +34,7 @@
                 "name": "Brisbane Hi Fi",
                 "phone": "07 3219 2545",
                 "email": "info@brisbanehifi.com.au",
+                "image": "brisbane-hifi.png",
                 "storeid": "02"
             }
         },
@@ -52,6 +54,7 @@
                 "name": "GC HiFi",
                 "phone": "+0419 448 452",
                 "email": "terryo@gc-hifi.com.au",
+                "image": "gc-hifi-png-file.png",
                 "storeid": "03"
             }
         },
@@ -71,6 +74,7 @@
                 "name": "Lenehan Audio",
                 "phone": "0418 765 726",
                 "email": "mike@lenehanaudio.com.au",
+                "image": "LABanner.png",
                 "storeid": "04"
             }
         }
