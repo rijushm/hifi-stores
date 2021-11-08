@@ -337,6 +337,66 @@
                 "image": "audio-trends.png",
                 "storeid": "17"
             }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.9667582,
+                    -37.8032034
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "164/172 Lygon Street Carlton VIC 3053",
+                "name": "Carlton Audio Visual",
+                "phone": "03 9639 2737",
+                "email": "cavmail@carltonaudiovisual.com.au",
+                "image": "CAV-David-logo-web.png",
+                "storeid": "18"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.9836868,
+                    -37.8570485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Suite 2.02/22 St Kilda Road, St Kilda VIC 3182",
+                "name": "HeyNow Hi-Fi",
+                "phone": "03 9525 0022",
+                "email": "hello@heynowhifi.com.au",
+                "image": "heynow.png",
+                "storeid": "19"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.0411445,
+                    -37.9116159
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "224 McKinnon Road McKinnon VIC 3204",
+                "name": "Sound Gallery",
+                "phone": "03 9578 8658",
+                "email": "info@soundgallery.com.au",
+                "image": "sound-gallery.png",
+                "storeid": "20"
+            }
         }
     ]
 }
