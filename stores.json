@@ -38,17 +38,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -27.9361398,
-                    153.3603181
+                    153.3603181,
+                    -27.9361398
                 ]
             },
             "type": "Feature",
             "properties": {
                 "category": "patisserie",
                 "hours": "10am - 6pm",
-                "description": "Whatever the occasion, whether it's a birthday or a wedding, Josie's Patisserie has the perfect treat for you. We're part of a larger chain of patisseries and cafes.",
-                "name": "Josie's Patisserie Norwich",
-                "phone": "+44 1603 123456",
+                "description": "Arundel, Gold Coast.",
+                "name": "GC HiFi",
+                "phone": "+0419 448 452",
                 "storeid": "03"
             }
         },
