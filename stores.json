@@ -77,6 +77,86 @@
                 "image": "LABanner.png",
                 "storeid": "04"
             }
-        }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.0304606,
+                    -27.4464942
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "1/141 Campbell St, Bowen Hills QLD 4006",
+                "name": "Trimira Audio & Integration",
+                "phone": "07 3854 0406",
+                "email": "info@trimira.com.au",
+                "image": "trimira-audio.png",
+                "storeid": "05"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.1533493,
+                    -33.8885316
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Unit 6/509-529 Parramatta Road Leichhardt NSW 2040",
+                "name": "Audio Connection",
+                "phone": "02 9561 0788",
+                "email": " ",
+                "image": "AC-Logo_450x-1.png",
+                "storeid": "06"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   151.7490809,
+                    -32.9242433
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Suite 4, 74-84 Tudor Street Hamilton NSW 2303",
+                "name": "Audio Junction",
+                "phone": "02 496 21490",
+                "email": "info@audiojunction.com.au",
+                "image": "LABanner.png",
+                "storeid": "07"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.1946304,
+                    -33.9313417
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "1195 Botany Road, Mascot Sydney NSW 2020",
+                "name": "Audio Solutions",
+                "phone": "02 9317 3330",
+                "email": "info@audiosolutions.net.au",
+                "image": "Audio-Solutions1-1.png",
+                "storeid": "08"
+            }
+        },
     ]
 }
