@@ -238,5 +238,105 @@
                 "storeid": "12"
             }
         },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.3024108,
+                    -33.6789097
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Shop 1, 1 Mona Vale Road Mona Vale NSW 2130",
+                "name": "Sydney Hi-Fi Mona Vale",
+                "phone": "02 8088 3088",
+                "email": "info@sydneyhifimonavale.com.au",
+                "image": "sydneyhifi.png",
+                "storeid": "13"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.16347,
+                    -33.76864
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Killara NSW 2071 By Appointment",
+                "name": "Zensati Australia",
+                "phone": "041 300 7440",
+                "email": "contact-us@zensatiaustralia.com",
+                "image": " zensati-1.png",
+                "storeid": "14"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.108,
+                    -35.342
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Garran ACT 2605",
+                "name": "Audio Apartmento",
+                "phone": "0498 127 097",
+                "email": "allan@audioapartmento.com.au",
+                "image": "audio-apartmento.png",
+                "storeid": "15"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   144.9776409,
+                    -37.7814378
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "763 Nicholson Street North Carlton VIC 3054",
+                "name": "Audio Influence",
+                "phone": "0414 794 414",
+                "email": "asales@audioinfluence.com.au",
+                "image": "audio-influence.png",
+                "storeid": "16"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.2149167,
+                    -37.82813
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "10 Argent Place Ringwood VIC 3134",
+                "name": "Audio Trends",
+                "phone": "03 9874 8233",
+                "email": "shop@audiotrends.com.au",
+                "image": "audio-trends.png",
+                "storeid": "17"
+            }
+        }
     ]
 }
