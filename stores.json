@@ -11,7 +11,7 @@
             "type": "Feature",
             "properties": {
                 "category": "retailer",
-                "address": "Cnr Production and Tandem Avenue Warana, QLD 4575",
+                "addressStore": "Cnr Production and Tandem Avenue Warana, QLD 4575",
                 "description": "demo",
                 "name": "Audiofix",
                 "phone": "07 54379790",
@@ -30,7 +30,7 @@
             "type": "Feature",
             "properties": {
                 "category": "retailer",
-                "address": "5/17 Morrison Close, Mansfield Brisbane QLD 4122",
+                "addressStore": "5/17 Morrison Close, Mansfield Brisbane QLD 4122",
                 "description": "demo",
                 "name": "Brisbane Hi Fi",
                 "phone": "07 3219 2545",
