@@ -158,5 +158,25 @@
                 "storeid": "08"
             }
         },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.0326302,
+                    -33.6960879
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Unit 8, 286-288 New Line Road Dural NSW 2158",
+                "name": "In Style Home Theatre & Hi Fi",
+                "phone": "02 9712 7757",
+                "email": "info@instylehifi.com.au",
+                "image": "Audio-Solutions1-1.png",
+                "storeid": "09"
+            }
+        }
     ]
 }
