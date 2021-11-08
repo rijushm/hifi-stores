@@ -397,6 +397,106 @@
                 "image": "sound-gallery.png",
                 "storeid": "20"
             }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.0567932,
+                    -37.9630649
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Level 1, 1277 Nepean Highway, Cheltenham VIC 3192",
+                "name": "The Audio Experts",
+                "phone": "03 9545 5152",
+                "email": "info@theaudioexperts.com.au",
+                "image": "TAE-Logo.png",
+                "storeid": "21"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.8105833,
+                    -31.9063736
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "454 Scarborough Beach Road, Osborne Park, WA 6017",
+                "name": "Douglas HiFi",
+                "phone": "08 9322 3466",
+                "email": "sales@douglashifi.com.au",
+                "image": "Douglas-hifi-logo-web.jpg",
+                "storeid": "22"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   115.8148044,
+                    -32.0687612
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Kardinya WA 6163",
+                "name": "Simply Hi Fi & Home Theatre",
+                "phone": "08 9337 2041",
+                "email": "sales@simplyhifi.com.au",
+                "image": "simplyhifi1.png",
+                "storeid": "23"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   115.8017554,
+                    -31.9796708
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "102 Stirling Highway Nedlands WA 6009",
+                "name": "Surrounds",
+                "phone": "008 9389 6900",
+                "email": "sales@surrounds.com.au",
+                "image": "surrounds-automating-tech.png",
+                "storeid": "24"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   116.0123673,
+                    -31.8964389
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Cnr Clayton & Lloyd St Midland WA 6056",
+                "name": "West Coast Hi-Fi Midland",
+                "phone": "08 9374 0388",
+                "email": "midland@westcoast-hifi.com.au",
+                "image": "westcoast.png",
+                "storeid": "25"
+            }
         }
     ]
 }
