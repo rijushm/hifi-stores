@@ -174,9 +174,69 @@
                 "name": "In Style Home Theatre & Hi Fi",
                 "phone": "02 9712 7757",
                 "email": "info@instylehifi.com.au",
-                "image": "Audio-Solutions1-1.png",
+                "image": "INSTYLE_LOGOweblogo_2_440x.png",
                 "storeid": "09"
             }
-        }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.1671295,
+                    -33.8148493
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "64 Burns Bay Rd Lane Cove NSW 2066",
+                "name": "Len Wallis Audio",
+                "phone": "02 9427 6755",
+                "email": "sales@lenwallisaudio.com.au",
+                "image": "lenwallis@2x.png",
+                "storeid": "10"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.2785082,
+                    -28.8086931
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "105 Keen Street Lismore NSW 2480",
+                "name": "Living Entertainment North Coast",
+                "phone": "02 66226594",
+                "email": "info@lenc.com.au",
+                "image": "LENC_Logo_White_2_450x-black.png",
+                "storeid": "11"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.3548,
+                    -33.4389203
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Shop 1, 41-45 Victoria Street East Gosford NSW 2250",
+                "name": "Mcleans",
+                "phone": "1300 995 448",
+                "email": "sales@mcleans.info",
+                "image": "220-x-auto-fit-mcleanslogo.png",
+                "storeid": "12"
+            }
+        },
     ]
 }
